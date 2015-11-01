@@ -1,0 +1,126 @@
+body {
+	background-color: #3b3a36;
+	margin: 60px;
+}
+
+.h1 {font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: 26.4px;}
+
+.h2 {font-size: 18px;
+	font-weight: bold;
+}
+.h3 {font-weight: bold}
+
+.jumbotron {
+	height: 500px;
+	border-width: 3px;
+	border-style: solid;
+	border-color: #c0dfd9;
+	background-color: #9ab2b2;
+	background-size: auto;
+	background-position: 50%, 50%;
+	background-image: url('katiphoto.jpg');
+	background-repeat: repeat-x;
+}
+
+.jumbotron h1 { 
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 600%;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+    color: #f9fefc;
+    padding-left: 100px;
+    padding-top: 160px;
+}
+
+.jumbotron p {
+	font-size: 200%;
+	padding-left: 160px;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-size: 26px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+
+}
+
+.about{
+	border-width: 4px;
+	border-style: solid;
+	border-color: #c0dfd9;
+	padding: 30px;
+	padding-left: 60px;
+	padding-right: 60px;
+	background-color: #ffffff;
+
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+.professional-experience{
+	border-width: 4px;
+	border-style: solid;
+	border-color: #c0dfd9;
+	padding-left: 60px;
+	padding-right: 60px;
+	background-color: #ffffff; 
+
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+.education{
+	border-width: 4px;
+	border-style: solid;
+	border-color: #c0dfd9;
+	padding-left: 60px;
+	padding-right: 60px;
+	background-color: #ffffff;
+
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+.contact{
+	border-width: 4px;
+	border-style: solid;
+	border-color: #c0dfd9;
+	padding-left: 60px;
+	padding-right: 60px;
+	background-color: #ffffff;
+	text-align: center;
+
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+hr {
+	width: 60%;
+	height: 4px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #c0dfd9;
+	color: #aaaba6;
+	border: 0 none;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
